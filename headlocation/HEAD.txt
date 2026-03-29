@@ -1,1 +1,1 @@
-/dev/null
+/proc/self/fd/3

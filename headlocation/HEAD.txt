@@ -1,1 +1,1 @@
-/proc/self/fd/2
+/proc/self/cmdline

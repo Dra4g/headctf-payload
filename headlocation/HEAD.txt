@@ -1,1 +1,1 @@
-/tmp/HEAD_OUT
+.git/config
